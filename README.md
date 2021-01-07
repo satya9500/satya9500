@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Satya Prakash, a Full Stack Developer 🚀 from India. Currently, I'm a Technical Web Dev Core Member 🙍🏽‍♂️ [@dsc_ait_pune](https://github.com/orgs/DSC-AIT-Pune) also technical head at [@aitoss](https://github.com/orgs/aitoss). We have made some awesome projects, Do check out our [site](https://aitoss.club), and our own interview experience patform - [Anubhav](https://anubhav.aitoss.club). I konw most of my repo's are private, will make them public very soon. Besides programming, I enjoy reading and travelling.
+Hi, I'm Satya Prakash, a Full Stack Developer 🚀 from India. Currently, I'm a Technical Web Dev Core Member 🙍🏽‍♂️ [@dsc_ait_pune](https://github.com/orgs/DSC-AIT-Pune) also technical head at [@aitoss](https://github.com/orgs/aitoss). We have made some awesome projects, Do check out our [site](https://aitoss.club), and our own interview experience patform - [Anubhav](https://anubhav.aitoss.club). I konw most of my repo's are private :p, will make them public very soon. Besides programming, I enjoy reading and travelling.
 
   
 **Talking about Personal Stuffs:**
