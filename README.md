@@ -58,8 +58,3 @@ Hi, I'm Satya Prakash, a Full Stack Developer 🚀 from India. Currently, I'm a 
 <a href="https://github.com/satya9500/rePlastik_backend">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=satya9500&repo=rePlastik_backend" />
 </a>
-
-<a href="https://github.com/satya9500/rePlastik_backend">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=satya9500&repo=rePlastik_backend" />
-</a>
-
