@@ -18,7 +18,7 @@ Hi, I'm Satya Prakash, a Full Stack Developer 🚀 from India. Currently, I'm a 
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Ruby on Rails.
+- 🌱 I’m currently learning GoLang.
 - 🤔 Strengthening my Data strcutures and Algorithms.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: satya.prakash9500@gmail.com
