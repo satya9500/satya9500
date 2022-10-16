@@ -13,15 +13,16 @@
 <br />
 <br />
 
-Hi, I'm Satya Prakash, a Full Stack Developer 🚀 from India. Interning with [GoJek](https://www.gojek.io/) as a Software Engineering Intern - Backend in it's GoFood vertical. Pursuing my CS Degree from [AIT Pune](https://www.aitpune.com/).
+Hi, I'm Satya Prakash, a Full Stack Developer 🚀 from India. Working with [GoJek](https://www.gojek.io/) as a Software Engineer - Backend in it's GoFood vertical. 
+I have completed my CS Degree from [AIT Pune](https://www.aitpune.com/).
 
-Always ready to spend the weekend in a hackathon 😁. Have been a part of [OSS](https://aitoss.club/) and GDSC Club - AIT Pune. Always eager to discuss and learn about anything tech 💻. 
+Always ready to spend the weekend in a hackathon 😁. Have been a part of [OSS](https://aitoss.club/) and GDSC Club - AIT Pune. Always eager to discuss and learn about anything from tech to drugs XD. 
 
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning GoLang and Ruby.
-- 🤔 Strengthening my computer science fundamentals in OS/DS.
+- 🌱 I’m currently learning Clojure.
+- 🤔 Strengthening my computer science fundamentals in OS and Networking.
 - 📕 Currently reading [Designing Data-Intensive Applications](https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/9352135245)
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Reach out to me @[Linkedin](https://www.linkedin.com/in/satya-prakash-0a982a130/)
@@ -50,6 +51,7 @@ Always ready to spend the weekend in a hackathon 😁. Have been a part of [OSS]
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/29257325?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png"></code>
 <br /><br />
 
 ![Satya's github stats](https://github-readme-stats.vercel.app/api?username=satya9500&show_icons=true)
